@@ -14,8 +14,8 @@ int main()
     FILE *tempFile;
     FILE *gshadow;
     FILE *tempFile1;
-    char path[100]="C:/Abhi/C_prj2/group";    //Path of group file
-    char path1[100]="C:/Abhi/C_prj2/gshadow"; //Path of gshadow fie
+    char path[100]="C:/C_prj2/group";    //Path of group file
+    char path1[100]="C:/C_prj2/gshadow"; //Path of gshadow fie
     char word[20]; 
     char str[50];
     int line, col;
