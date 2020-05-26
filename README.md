@@ -5,7 +5,7 @@
   specified by an environment variable PFILE. 
 *The program takes all arguments as command line arguments
 
-Instructions to execute the Program:
+Instructions to execute the Program:<br />
 i.)The two files as mentioned in the question should be present in a folder and change the path to the file accordingly prior to execution.<br />
 ii.)Place all the program files in same folder.<br />
 iii.)Use "mingw32-make -f makefile.mk" to execute the program.<br />
