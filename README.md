@@ -8,6 +8,6 @@
 Instructions to execute the Program:<br />
 i.)The two files as mentioned in the question should be present in a folder and change the path to the file accordingly prior to execution.<br />
 ii.)Place all the program files in same folder.<br />
-iii.)Use "mingw32-make -f makefile.mk" to execute the program.<br />
-iv.)Then ./a.exe to run the program<br />
+iii.)Use "mingw32-make -f makefile.mk" in windows and "make -f makefile.mk" in linux systems to execute the program.<br />
+iv.)Then "./a.exe" or "./a.out" depending on OS to run the program<br />
 v.)After compilation type "delgroup groupname" to execute the program successfully.<br />
