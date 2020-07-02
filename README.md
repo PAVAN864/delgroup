@@ -11,13 +11,16 @@ git clone https://github.com/Abhishek4848/delgroup.git
 ```
 2. Change directory to the program folder
 ```
-git cd delgroup
+cd delgroup
 ```
 3. Executing the program<br />
 Windows
 ```
 mingw32-make -f makefile.mk
-make -f makefile.mk
 ```
+Linux
+'''
+make -f makefile.mk
+'''
 4. hen "./a.exe" or "./a.out" depending on OS to run the program
 5. After compilation type "delgroup groupname" to execute the program successfully.
