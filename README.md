@@ -17,10 +17,12 @@ cd delgroup
   - Windows
 ```
 mingw32-make -f makefile.mk
+./a.exe
 ```
   - Linux
-'''
+```
 make -f makefile.mk
-'''
+./a.out
+```
 4. hen "./a.exe" or "./a.out" depending on OS to run the program
 5. After compilation type "delgroup groupname" to execute the program successfully.
