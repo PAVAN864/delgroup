@@ -25,3 +25,6 @@ make -f makefile.mk
 ./a.out
 ```
 4. After compilation type "delgroup groupname" to execute the program successfully.
+```
+delgroup groupname
+```
