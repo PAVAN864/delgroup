@@ -13,12 +13,12 @@ git clone https://github.com/Abhishek4848/delgroup.git
 ```
 cd delgroup
 ```
-3. Executing the program<br />
-Windows
+3. Executing the program
+  - Windows
 ```
 mingw32-make -f makefile.mk
 ```
-Linux
+  - Linux
 '''
 make -f makefile.mk
 '''
