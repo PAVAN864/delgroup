@@ -1,0 +1,1 @@
+void delgroupGname(char deletinggroup[]);
